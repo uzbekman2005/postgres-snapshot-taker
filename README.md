@@ -1,2 +1,2 @@
-# postgres-snapshot-taker
-You can use this software to take snapshot of your database and sent it to specific bot. 
+# Snapshot taker
+![Database snapshot taker](https://github.com/uzbekman2005/postgres-snapshot-taker/docs/database_snapshot.jpg)
