@@ -1,0 +1,13 @@
+{
+    "database":"db_name",
+    "host":"db_host",
+    "port":"5432", 
+    "user":"db_user",
+    "password":"db_password",
+    "description":"Some description about database",
+    "tables": [
+        "table_name_1",
+        "table_name_2",
+        "table_name_3"
+    ]
+}
