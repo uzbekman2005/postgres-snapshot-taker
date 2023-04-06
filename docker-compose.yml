@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  snapshot_taker:
+    container_name: snapshot_taker
+    build: .
+    restart: unless-stopped
+    environment:
+      - DOT_ENV_PATH=config/.env
+    

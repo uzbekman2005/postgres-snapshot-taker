@@ -12,6 +12,6 @@ RUN pip install --trusted-host pypi.python.org -r requirements.txt
 
 # Set the environment variable for the bot
 ENV BOT_ENVIRONMENT=production
-ENV DOT_ENV_PATH=config/.env
+
 # Run the bot when the container launches
 CMD ["python", "app.py"]
