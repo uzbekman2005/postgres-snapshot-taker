@@ -25,7 +25,7 @@ Takes snapshot of database that you configured. After you give database cridenti
 git clone https://github.com/uzbekman2005/postgres-snapshot-taker.git 
 ```
 #### Download zip file. 
-After installing zip file unzip it a path you write code. 
+After installing zip file unzip it in the path that you write code. 
 
 ## 2 Configuration
 Add your database configuration files to ./database/db_config/config_files. Configuration template is given there.
